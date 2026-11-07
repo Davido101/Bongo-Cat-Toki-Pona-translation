@@ -228,7 +228,7 @@ Please check for Steam Updates.";
 
 41226777-7540-4c1b-a8b1-2f940ff8d702;Send;"Send";
 
-41884c36-2425-45b7-ae8d-af44144cbf79;ExchangeInfoText;"Exchange 10 items of <b>identical</b> quality and receive 1 item of the next highest quality.";"sina pana e ijo pi nanpa luka luka pi pona sama la sina kama jo e ijo wan pi pona mute"
+41884c36-2425-45b7-ae8d-af44144cbf79;ExchangeInfoText;"Exchange 10 items of <b>identical</b> quality and receive 1 item of the next highest quality.";"sina pana e ijo pi nanpa 10 pi pona sama la sina kama jo e ijo wan pi pona mute"
 
 41a1d25b-73e1-4895-9cec-ff6fa2a0955d;SupporterConfirm;"Confirm?";
 
@@ -331,7 +331,7 @@ Can only be disabled by pressing F4 while the Bongo Cat window is focused.";
 
 62d3216e-d1c6-41ad-a29a-209179fc51bc;HideEmotesTooltip;"Receive Emotes from other players";
 
-6431d6c5-1609-41b0-86f6-1c67a9cfc0df;BattleEliminated;"You have been eliminated";
+6431d6c5-1609-41b0-86f6-1c67a9cfc0df;BattleEliminated;"You have been eliminated";"sina kama weka"
 
 65197699-e9da-4c04-963a-bed325e2ca7e;RandomizeFavorites;"Only Favorites";
 
@@ -341,7 +341,7 @@ Can only be disabled by pressing F4 while the Bongo Cat window is focused.";
 
 667e31a6-10de-493f-899c-8595a097f8fc;SyncBobbingTooltip;"Synchronizes the bobbing animation of all cats";
 
-66a6c017-11cf-45e4-8262-a3f8f58e037d;Tut_Transparency;"You look dashing!";
+66a6c017-11cf-45e4-8262-a3f8f58e037d;Tut_Transparency;"You look dashing!";"sina lukin pona!"
 
 67603979-4c34-4af5-9ddf-3e78a248e710;Tut_ScreenTxt;"(you can change this anytime in the Settings or by pressing F8)";
 
@@ -349,7 +349,7 @@ Can only be disabled by pressing F4 while the Bongo Cat window is focused.";
 
 68bd4f5d-e2cd-459e-9420-f0e9fe6c3893;SkipTutorial;"Skip Tutorial";
 
-68e62e29-013c-430a-911f-792ea03e7240;Miscellaneous;"Miscellaneous";
+68e62e29-013c-430a-911f-792ea03e7240;Miscellaneous;"Miscellaneous";"ante"
 
 69516f4a-64bc-4122-bbce-9950d5578c70;MultiplayerPopups;"Receive Multiplayer Popups";
 
@@ -359,7 +359,7 @@ Can only be disabled by pressing F4 while the Bongo Cat window is focused.";
 
 6b53e939-1661-4c86-83c4-bb0a2140594d;ConfirmButton;"Confirm";
 
-6b986718-4ae4-44c0-ad24-aa3b8c36cb11;UnlockTab_Items;"Collect {0} more items";
+6b986718-4ae4-44c0-ad24-aa3b8c36cb11;UnlockTab_Items;"Collect {0} more items";"o kama jo e ijo pi nanpa {0}"
 
 6c2936e3-2796-4d27-bb5d-4a22fd00ca24;Tut_GrantFailed;"Something went wrong while opening your chest";
 
@@ -416,7 +416,7 @@ This <b>cannot</b> be undone.";
 
 7b995284-eda2-48a3-a7fe-d89b6fc82b80;Exchange;"Exchange";
 
-7bffbedc-22c0-4179-b913-8079e151ecaf;Meow;"Meow Meow";
+7bffbedc-22c0-4179-b913-8079e151ecaf;Meow;"Meow Meow";"mu mu"
 
 7c139508-f36c-47af-804d-a7352ef39fa4;HalloweenEdition;"Halloween Edition";
 
@@ -469,11 +469,11 @@ When a preset is created, the application that was last active before Bongo Cat 
 
 8b39cb8e-b072-4805-9f1e-fc34c6f406d0;PollTitle;"Time for a vote!";
 
-8b6b6a17-67a1-420c-bc59-badf632abb2a;NewItem;"NEW ITEM";
+8b6b6a17-67a1-420c-bc59-badf632abb2a;NewItem;"NEW ITEM";"IJO SIN"
 
 8c120aad-e37c-4776-bf5a-dd8965b8c805;EnableEmoteChestTooltip;"Enables the emoji chest.";
 
-8cc44a1e-f4af-491d-9881-0aace726bc9d;Friends;"Friends";
+8cc44a1e-f4af-491d-9881-0aace726bc9d;Friends;"Friends";"jan pona"
 
 8ce994d6-6eb4-4db6-9834-1b5c41957e5f;EnableEmoteWheel;"Emoji Wheel";
 
@@ -504,7 +504,7 @@ Disables controller support.";
 
 9635eacc-f82d-40c2-acd6-5abe70c328d8;AutoEquipPresets;"Auto Equip Presets";
 
-96421ae1-de7c-409d-a177-734ef2389b82;Lobbies;"Lobbies";
+96421ae1-de7c-409d-a177-734ef2389b82;Lobbies;"Lobbies";"kulupu"
 
 966e49de-760d-4d7c-99ef-2998e52dfd0d;SettingsMultiplayer;"Multiplayer Settings";
 
@@ -527,7 +527,7 @@ Disables controller support.";
 
 9a3f3911-0a46-48b3-97ef-cdef675104a5;MultiplayerSpawningPatternTopBorder;"Top Border";
 
-9b2e490e-8fcf-4ef5-9cce-f791a046b7bf;FpsLabel;"FPS: {0}";
+9b2e490e-8fcf-4ef5-9cce-f791a046b7bf;FpsLabel;"FPS: {0}";"FPS: {0}"
 
 9bc98c29-d384-4fef-a5b9-e6eb5619ba50;PawPassWelcomeTitle;"Welcome to the Paw Pass!";
 
@@ -575,7 +575,7 @@ aa9065b1-bd68-4be6-89b6-61c5fbc8e99b;BattleLeastTapsInfo;"The players with the l
 
 aa925a95-2a38-4c18-aa97-2d9dd37929ab;MultiplayerSpawnPreferredVerticalDistanceTooltip;"Defines the vertical distance between cats";
 
-ab077129-0a85-4e95-9ea4-9a2b1757265c;Scale;"Scale";
+ab077129-0a85-4e95-9ea4-9a2b1757265c;Scale;"Scale";"suli"
 
 aba212dc-034d-4fce-94ce-19351284b2ca;CounterPositionBelowBongos;"Counter Below Bongos";
 
@@ -589,7 +589,7 @@ af2e358d-7589-4a54-9602-3c4510d7f9a6;AnimationsTooltip;"Turn off to skip UI anim
 
 af66d37b-feac-471c-af35-d03d5c9d7926;FlipCat;"Flip Cat (F)";
 
-afbdcb14-84b8-4058-89ac-b18dbd5fe9e5;Yes;"Yes";
+afbdcb14-84b8-4058-89ac-b18dbd5fe9e5;Yes;"Yes";"lon"
 
 b13413b5-6484-449c-b3e1-b5825aa6a8d2;RestartButton;"Restart";
 
