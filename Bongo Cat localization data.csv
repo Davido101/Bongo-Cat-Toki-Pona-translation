@@ -1,0 +1,820 @@
+id;key;source;translation
+
+0020af5e-6304-494d-b506-3941748f0f36;UpdateWarning;A new update is available. 
+Please restart Bongo Cat.;
+
+0145bde1-2a1f-4ab5-bd8a-acf33338b67e;Tut_ChestReadyTxt;Click on it to open
+This will cost you 25 Taps;
+
+014cbee4-0b34-49ff-8131-700b1319519e;RandomizePresetsTooltip;The randomizer will only use your presets.;
+
+01d663b7-cdfe-476c-a46b-01a70a91145c;MultiplayerSpawnClockwise;Spawn Clockwise;
+
+01fe7a95-23b7-4712-8842-6f40e20da51c;SnapCatsTooltip;When enabled, snaps cats into defined slots.;
+
+0297b9a7-9745-4c70-94c5-2f903531719f;AutostartTooltip;Automatically launch the game when the PC starts.;
+
+03f81f6c-e842-4fca-884a-06b820369464;AllowAutoSlotFavorites;Exchange Favorites;
+
+043ae597-132c-4853-a1b6-78f6372b2449;JoinLastLobby;Auto-join Last Lobby;
+
+04559f7b-d2ae-48b0-803e-71a4112ade66;AutoHideCounter;Auto Hide Counter;
+
+058c8421-df1c-4d1b-85ea-e79843551e97;SupporterGetPass;Get Pass;
+
+061100fc-ccee-4c3d-8362-b2baddd36c8f;AutoHideCatsTooltip;Automatically hides other cats upon joining;
+
+0a11da45-666d-4e63-aa11-4c5bfd57c91e;MultiplayerSpawningAxisHorizontal;Horizontal;
+
+0a1e9bf2-7dc3-4083-a8a0-ab1a6b958f74;GamingMode;Gaming Mode;
+
+0a69f832-385a-46db-b170-ef4b19370a02;PawPassWelcomeDescription;Play to get skins, hats, emotes and chests! There is no deadline to the pass, so take your time with it. Read the Steam Patch Notes for more information. Enjoy! <3;
+
+0a94b70d-2d10-4717-96d8-6d9f14242bd3;OpenPoll;Open Voting;
+
+0aa7983d-3d39-4d49-8305-9ba954d73a63;MultiplayerSpawnClockwiseTooltip;If checked, spawns clockwise, else counter-clockwise;
+
+0abb030c-c227-4fd0-9e21-bded3767ac09;RandomizePresets;Only Presets;
+
+0bcfc2e1-9cc7-4d31-abca-666c9547c306;LobbyCodeWarningExplanation;You entered a custom Lobby ID, which will force your lobby to be public;
+
+0bd30830-1403-4241-822f-4a7bd11c062c;MainScreen;Main Screen;
+
+0bd8f4fe-4ddd-4cac-a177-e62f41776916;ShowItemBorders;Show Item Borders;
+
+0c590c50-d55e-4367-8a55-5f7e4be27241;DiscordIntegrationTooltip;Enables the Discord activities.;
+
+0d3490af-068e-4dbd-af0a-d6fd46ee1027;DynamicPresets;Dynamic Presets;
+
+0d443d69-0fab-4f59-94cf-bd84c40239f7;MultiplayerSpawningFillOrder;Defines whether the grid is filled row by row or column by column;
+
+0d842ac1-e02d-4792-8176-e63137e3cdde;AutoEquipDrops;Auto Equip Drops;
+
+0e621ed3-7220-49e5-97ff-2a3d45513e9f;ComingSoon;Coming Soon!;
+
+0e6a0e90-449f-4e43-aba2-6be17c8ca2bd;InitError;Steam initialization failed.
+Please restart Bongo Cat.;
+
+0f3f1324-33a7-4811-b59d-2b5b324166cb;ShowIconPreviewTooltip;Displays a preview of an item when hovering over it in the collection;
+
+0fd7f673-c020-4934-a8a8-4ebdf3662bcc;NameplatePositionBelowBongos;Nameplate Below Bongos;
+
+10a9e4b2-7d45-41c3-a2c1-8b2a2eb8c52c;AlwaysOnTopTooltip;Keeps Bongo Cat always in front of all other windows.;
+
+10b81451-efd8-456c-b1e9-31058278bdd7;Wishlist;Wishlist;
+
+11088e89-6c51-4c08-aa31-acc7864e0576;Leave;Leave;
+
+11188ffd-d478-4637-8a24-1e40afa74bcc;Tut_ChestExplainTxt;Click on your Tap Counter to reveal the remaining time;
+
+1158a491-a1b1-4aee-a0ec-3628cbccfb06;Tut_Drag;You can drag your Cat around your screen wherever you'd like;
+
+11c60095-dbf0-4962-a5fd-036334d42016;UnlockAfterDistinctCollections;Collect items from {0} more collections to unlock this tab;
+
+121070d3-8b2c-455f-8de7-f226edcaf136;RotateAllCatsTooltip;Rotate all cats;
+
+1279d43e-8b1f-4b78-88b0-0f5ba009d2cc;Game Settings;Game Settings;
+
+134dbc59-b166-4983-9d23-55ef7ecec0bf;DeleteAllStatsTooltip;This will reset your lifetime, current and Paw Pass taps. It will <b>not</b> delete your inventory.;
+
+136305cf-ed33-4bb0-a007-0628971161ec;ShowAllItems;Show All Items;
+
+13d747ca-dbad-4c2e-a0e8-d8dc7a4bd8cd;MultiplayerSpawningAnchorTopRight;Top Right;
+
+1523f19a-84b6-4bdb-b0ea-227f8fd9f112;Mute Chats;Receive Chats;
+
+156bc2bf-b8f2-4600-b8fc-9d289aa57a65;General;General;
+
+15c8f414-3f69-43f7-8a88-5bd03e868ac2;PatEmote;Pat Emote;
+
+15cfe5cb-e37a-4664-88ab-0c05447e92dc;AnimateChestPurchase;Animate Chest;
+
+15e5897b-bf61-4c54-989e-d7ee8f904de3;CatRandomizer;Randomize Cat:;
+
+1690bf4f-4ea8-41e9-8cdc-bbf3f565640a;NotifyPawPass;Notify when a next reward can be claimed;
+
+1741db27-7c4e-4e50-abe2-b789790f5ef3;Settings;Settings;
+
+175196fe-b8c1-47b0-93f6-e606013a4b45;ScreenshotTooltip;Takes a screenshot of Bongo Cat and copies it to the clipboard.;
+
+175c4940-334f-49d4-8f37-bb9ec36c7636;MultiplayerSpawningFillOrderColumnFirst;Column First;
+
+17bc0155-7b10-4b16-8b00-a7c156f6115e;HideEmotes;Receive Emojis;
+
+17e6f895-72e4-4a08-a0db-761e3086005a;PawPassRhythmEdition;Rhythm Edition;
+
+190325fd-b8ec-4ffc-8dd7-cf12f326e7f4;PollText;Would you like to see more community polls like this one?;
+
+1909c98f-c499-4390-9f04-c9f0e74b6e5f;Rarity;Rarity;
+
+19ed3170-02a3-4e52-89c0-623e30a6866f;CloseButton;Close;
+
+1a84baee-cb60-4960-a102-f838d88b194b;MultiplayerSpawnSquished;Squish Cats;
+
+1a93c64f-efe8-4b38-9eb9-27e55e59728e;HideLobbyIdTooltip;When enabled, hides the ID of your current multiplayer lobby. You can still copy your lobby ID to the clipboard using the copy button.;
+
+1ba34b2d-5250-4f3e-bb29-39f1fdf14439;MultiplayerSpawningFillOrderRowFirst;Row First;
+
+1ba8219f-f5ff-49b1-b380-9fe0b40fee6a;BattleWin;Congratulations;
+
+1d681675-9622-4689-a6df-c9b6b1dde512;LobbyNamePlaceholder;Enter Lobbyname...;
+
+1de6ba47-1b1a-4f96-8105-0e63123349d0;BattleStartSub;Type as much you can to be the last cat standing;
+
+1ed0ecb1-1b5d-4587-a4cb-13185be6467d;CategoryEmpty;This category is empty;
+
+1fa3f911-427c-40a9-9a37-ee0943e82691;Completed;Completed;
+
+212c8bc3-2c98-4fc2-8750-d7d0f1fae59c;ScaleResetCountdown;Resetting to previous scale in {0};
+
+21495f48-9fc0-4cd5-af98-6452016361ec;SettingsDangerZone;Danger Zone;
+
+2168a7fd-2bd1-45e1-8ea8-adfaf26f288e;TransparencyFixTooltip;Fixes transparency issues if the window is not transparent.;
+
+21e1c939-7c57-419f-a7de-a9af191a164c;LobbyVisibilityInviteOnly;Invite only;
+
+21ea63a7-fc38-4c24-9163-6f70fbfd3ea8;Delete;Delete;
+
+22116814-a47f-4633-b536-4628191bcac3;SupporterNotEnoughCoinsTooltip;You don't have enough coins;
+
+223f9868-8950-4e65-9e8d-857b54849732;UnslotDuplicatesTooltip;Un-Slot Duplicates;
+
+2323328d-028a-494b-970f-26d3568d6ab6;KeepNewSettingsQuestion;Keep new settings?;
+
+2385870a-c236-4b33-b0b9-bc972f318dba;Emotes;Emotes;
+
+23ad7002-7816-44fc-b594-c7f2350c93d4;AnimateChestPurchaseTooltip;Enables a small animation when opening a chest. Includes the popup that displays the number of taps paid.;
+
+23e72e7d-2fda-4ed8-ae3d-8190920c35f5;Tut_MiddleMouseHint;(you can also do this by pressing 'M' or hitting the middle mouse button on your Cat);
+
+24a292ef-96e2-4920-aeef-28a7df0ecb31;Filters;Filters;
+
+262537e7-45a2-4793-b7fd-dc38a8cc6f41;AutostartTooltipDisabled;Autostart can't be activated if admin mode is active.;
+
+269ad41b-b6e9-44f4-ac98-dbb6c9684cb1;Tut_HaveFun;Have fun!;
+
+28183889-b4b2-4838-b6be-f65ecc8d5935;MultiplayerSpawningPatternAroundBorder;Around Border;
+
+2b12ea9c-22f5-41aa-9e82-3667621a0cb6;Tut_Screen;Choose the screen on which you want your cat to appear;
+
+2b191a1c-0673-4798-918f-009650e95390;SettingsInteraction;Interaction;
+
+2d43ca1e-cb90-4ecf-95a2-fc77523ea690;Test;Test;
+
+2dd23179-646e-4cd6-986e-a52191e28f2e;Tut_AutoStartTxt;This will automatically launch the app when starting your computer;
+
+2de20e75-4012-406c-a6da-81a4a5568bcb;Tut_IntroTxt;Tap anywhere or press any key to increase your Tap Counter;
+
+2e3bb2ff-6ef4-4144-8990-013ff9602708;FlipAllCatsTooltip;Flip all cats;
+
+2e673c8d-c05d-4a3e-9589-e1da62dc5b47;ImageLoadError;Item could not be loaded.
+Please check for Steam Updates.;
+
+2ee3dbd4-b9ff-4f68-b42b-57b8a7b7b386;OpenLogFolder;Show Log Folder;
+
+2f8ec234-475e-418c-9d51-e71f8da5daa8;Online;Online;
+
+2f9ddf2c-77f1-4978-8da4-8e8c0f1ede90;ChangeInSettings;(you can change this anytime in the Settings);
+
+2fc89ddc-1f3e-45ff-84f2-7bf4bf9b54bc;TransparencyFixWarning;Disabling this Setting again will require the app to restart;
+
+300235d6-8b85-4cc5-98dc-96e021141a09;TaskbarIcon;Taskbar Icon;
+
+31fa1f67-432b-421f-ba73-fabfabe6e8c5;TranslucentOnHoverTooltip;Makes cat see-through when hovering over it;
+
+327f64fe-686d-4783-85f3-d5d0e2ec70e5;UnhideAllItems;Unhide All Items;
+
+3287391a-401b-4c2b-82df-8e24cc2db82b;RandomizePresetsNoPresetsTooltip;You need to add presets first to use this option.;
+
+328b6696-e342-4126-bc3b-63654d565419;Claim;Claim;
+
+32f3726f-3fde-441b-8722-78fb75c0c721;AlwaysShowChestTooltip;Always display chest timer;
+
+3360b2d4-8101-4c31-aaef-2a7cfc3fc1ac;Copy;Copy;
+
+338303d3-a7e1-4be1-a65b-e203a28ca7ca;DiscordCoopState;Tapping together;
+
+33fb65cc-8301-422f-9607-8ffd0f0df011;LeaveLobby;Leave Lobby;
+
+34725e5d-62dc-4a65-b8b7-2730a5f02247;KeyhookWarning;So Bongo Cat can detect your input, please enable Steam access in;
+
+34fb6a0e-01ec-4c65-9e3f-1de626749899;PawPassNotification;Paw Pass Notification;
+
+35264481-f80c-40e4-ad81-067ed6d87cc8;EnterLobbyIdHint;Enter Lobby ID...;
+
+35cc27a9-0ce8-49d8-b221-0b70e17759c1;JoinDiscord;Join the Discord server!;
+
+39b72cd3-1076-4fb8-b21d-f01081441809;MultiplayerSpawningAnchorBottomLeft;Bottom Left;
+
+3c93c940-bd43-4e47-a1d0-ef650fff1999;NameplatePositionHighAboveCat;Nameplate High Above Cat;
+
+3cf716b2-03fc-40ec-925c-3f937c07ca82;ContinueQuestion;Continue?;
+
+3d4e8d35-02d8-4fe1-aa85-02607ca1fa1e;SubTabPositionRight;Sub tab position: Right;
+
+3db96ca5-6319-4007-962d-86d79548010b;ResetButton;Reset;
+
+3e35e3d9-ed56-46c5-8ea9-462cd4fcd798;EnableEmoteChest;Emoji Chest;
+
+3f269aa3-9518-4b9e-8d8d-beecf2fb3c80;HideDangerZone;Hide Danger Zone;
+
+3fcc8cbe-0e8a-4fb5-ad14-5d8c287f198e;MultiplayerSpawnPreferredHorizontalDistanceTooltip;Defines the horizontal distance between cats;
+
+40f0fa7d-f854-4efe-a8f1-b9c26845b7fb;UiScale;UI Scale;
+
+40fc90ef-0f39-43a5-8c67-6b408a0187bc;CommunityVoting;Community Voting;
+
+4114121d-89ff-4c8b-8d7a-9db0a7151188;Tut_End;You're all set!;
+
+41226777-7540-4c1b-a8b1-2f940ff8d702;Send;Send;
+
+41884c36-2425-45b7-ae8d-af44144cbf79;ExchangeInfoText;Exchange 10 items of <b>identical</b> quality and receive 1 item of the next highest quality.;
+
+41a1d25b-73e1-4895-9cec-ff6fa2a0955d;SupporterConfirm;Confirm?;
+
+425688fa-c28e-4b2c-b099-36ae057d877e;DuplicateHat;Duplicat;
+
+427db6ca-3a38-4962-bb4b-6aeb5ee2d57d;DeleteFullInventoryWarning;You are about to delete your full inventory. The deleted items can not be recovered. If you want to proceed tick the checkbox and click confirm.;
+
+4371a457-0d7d-4522-9581-6ad56f4bc3ba;AdminMode;Admin Mode;
+
+4440deaa-a724-45a1-8513-d5331eaabc75;SettingsInventory;Inventory;
+
+44e63178-dfd3-4cad-87b6-40c5a19d57ea;MultiplayerSpawningAnchor;Defines the starting position of the pattern.;
+
+44f25b97-0a78-41cc-bfad-49f045e19ba3;CancelButton;Cancel;
+
+47372775-5255-412d-b04f-d1421c93a5dd;AfkIndicatorTooltip;Toggles the Afk indicator after 2 minutes.;
+
+4754b083-57c3-4836-b41d-77d34d8cb531;MultiplayerSpawnSquishedTooltip;When a lobby gets crowded, preferred distance is ignored and cats are packed closer together;
+
+4784547f-700e-4e82-9dca-013ca124c50f;MeowTooltip;Your cat meows when you click on it;
+
+48dad515-5f01-4a09-9723-693b22142bdb;Market Button;Market;
+
+496206c0-72e0-4420-aca1-8013e8fbf729;PrefSpacing;Preferred Spacing;
+
+4a74b3fd-37df-4b9c-a972-d0d42debd44e;UnlockTab_Tut;Complete Tutorial;
+
+4b5e018a-26ad-41d9-8733-aeae3da95e54;ShowPlayerNames;Show Player Names;
+
+4ba5450b-9148-4987-8ecd-87aabe2565b6;PatEmoteTooltip;Spawns an emote when you pat your cat;
+
+4c38e90d-8459-422a-9f48-3d6c670288bb;DisableDragTooltip;Prevents movement of the Bongo Cat game window.;
+
+4c6d0da8-1364-4e07-90d9-a32c22bc8194;UnlockAfterOwningItem;Collect at least {0} item from this collection to unlock this tab;
+
+4cb46c0d-6494-471d-9cae-e407d9f62692;Tut_OpenInventoryTxt;Open your inventory;
+
+4db712bd-b3cd-46dc-a73f-ff381baaf55b;PollTimeLeft;{0}d {1}h;
+
+4de4ea5c-0bc8-4b68-9780-ee72126c8351;RandomizerIncludeHatsTooltip;Includes hats in the randomization. Does not work if "Only Presets" is enabled.;
+
+4e366930-fe39-4943-84b8-31e48f955164;MultiplayerSpawningPatternBottomBorder;Bottom Border;
+
+4e463b92-c02c-4684-995c-d72ef1596030;LocalizeTooltip;Opens localization where you can make translation suggestions (even this one!);
+
+4f3f6f2c-997b-4585-a985-ae60c56845a4;GamingModeTooltip;Disables any interactions with Bongo Cat unless a chest is ready to be opened.
+Can only be disabled by pressing F4 while the Bongo Cat window is focused.;
+
+50a53290-90f9-4498-ad06-16e155e2173e;OptionConfirmItemHide;Confirm Item Hide;
+
+50ef9546-8aeb-4078-8d83-fd9c747e284d;No;No;
+
+516ea337-a16c-417f-8b6d-236370d947a0;CounterPositionAboveCat;Counter Above Cat;
+
+51de9a1c-a720-4ea1-88bc-c728578dd2c3;TransparencyFix;Transparency Fix (F3);
+
+521121c4-9e28-43dd-b3db-7e86c1ab9b48;LobbyHeader;Lobby;
+
+53992332-c4d1-41f5-97cc-c9c27ccbe8f0;Hats;Hats;
+
+53a54c76-2d92-41e3-afa6-d519258af370;HideAllItems;Hide All Items;
+
+5475fb9c-754f-4169-b5a2-9958dd11554f;AdminModeTooltip;Always run the game as an administrator.;
+
+5489a835-766a-4709-91a6-7a5bff1f88bd;ScaleAllCats;Scale All Cats;
+
+5490ad6c-d5ec-4e03-9383-e7870edd6dce;SettingsVisuals;Visuals;
+
+55ba513e-59dd-49cb-bdff-3347cd51fdff;FollowButton;Follow;
+
+55e6ebd3-97f9-4733-99a5-1a5411ebb364;SwapPlacesTooltip;Cats trade places when dropping one onto another;
+
+562f6bfe-b7ca-4b13-aad8-407fe6092784;Tut_ChestReady;Your chest is ready!;
+
+56af5c4f-f066-4f00-904e-0f6011aadd59;Disconnected;Disconnected;
+
+57d7ddba-dedc-4c14-a617-39e008b00c6c;VSyncTooltip;Synchronizes the frame rate of the game to the refresh rate of your monitor.;
+
+58ca624a-bd68-45f6-a80a-5a41a2817102;Tut_ChestExplain;Every 30 minutes, you'll receive a chest with a new cosmetic item to customize your Cat;
+
+59c93d44-825f-42de-bc00-e3be93d02b96;Invite;Invite;
+
+5a841eaa-b8e0-4c6f-9de4-ddd363eca70c;DeleteItems;Delete Items;
+
+5aea7d5c-4979-474d-a23e-3d487e03807a;GamingModeExplanation;This will disable all cat interactions. To re-enable, click the taskbar icon and press F4.;
+
+5b3baebf-4558-46ef-b6d9-00e84905e8ca;BattleEliminatedSub;Better luck next time;
+
+5b5694a8-c3ed-420d-bc0c-5e450a80e149;AutoHideCats;Auto Hide Cats;
+
+5c7824c6-df96-4a99-a94b-4069d2b45b1f;IncludeMainCat;Include Own Cat;
+
+5d054322-1660-474d-85a3-613d5af6aeaf;AutoEquipDropsTooltip;Automatically equips items once they're dropped;
+
+5dff266a-49f7-46bd-a38c-97983cdcddcd;Tut_Intro;Welcome to Bongo Cat!;
+
+5f1d669a-8460-4b6e-8390-1d72398db646;Follow;To collect your follower hat, you have to follow Bongo Cat on Steam. Visit the store page and press the follow button.;
+
+60a074ee-33a6-444d-8618-b4e8d960bf86;UnlockTab_Txt;{0} to unlock this tab;
+
+62d3216e-d1c6-41ad-a29a-209179fc51bc;HideEmotesTooltip;Receive Emotes from other players;
+
+6431d6c5-1609-41b0-86f6-1c67a9cfc0df;BattleEliminated;You have been eliminated;
+
+65197699-e9da-4c04-963a-bed325e2ca7e;RandomizeFavorites;Only Favorites;
+
+656d73a8-1a38-4e5a-bb0e-87ef7e2fbc7c;PatCatsTooltip;Clicking on your cat plays a pat animation;
+
+65727621-6aeb-4140-b64f-96843d8ac1ac;MultiplayerSpawningPatternFree;Free;
+
+667e31a6-10de-493f-899c-8595a097f8fc;SyncBobbingTooltip;Synchronizes the bobbing animation of all cats;
+
+66a6c017-11cf-45e4-8262-a3f8f58e037d;Tut_Transparency;You look dashing!;
+
+67603979-4c34-4af5-9ddf-3e78a248e710;Tut_ScreenTxt;(you can change this anytime in the Settings or by pressing F8);
+
+676efd23-300c-40ba-99fb-04c6e4b028c4;HideLobbyId;Hide Lobby ID;
+
+68bd4f5d-e2cd-459e-9420-f0e9fe6c3893;SkipTutorial;Skip Tutorial;
+
+68e62e29-013c-430a-911f-792ea03e7240;Miscellaneous;Miscellaneous;
+
+69516f4a-64bc-4122-bbce-9950d5578c70;MultiplayerPopups;Receive Multiplayer Popups;
+
+6965fe98-1f41-4f0a-b115-1b2ccad718dc;SteamCommunityMarket;Steam Community Market;
+
+69c1903c-2d3c-4a30-8bd9-7cd8b5f38a1b;CounterPositionBelowCat;Counter Below Cat;
+
+6b53e939-1661-4c86-83c4-bb0a2140594d;ConfirmButton;Confirm;
+
+6b986718-4ae4-44c0-ad24-aa3b8c36cb11;UnlockTab_Items;Collect {0} more items;
+
+6c2936e3-2796-4d27-bb5d-4a22fd00ca24;Tut_GrantFailed;Something went wrong while opening your chest;
+
+6ccba85b-5114-4c60-a2ef-5903a3908d27;SettingsInput;Input;
+
+6cdd583c-a677-4dc4-9078-9d870dc0c00a;PrivateLobbyTooltip;Limits lobby access to invited players only;
+
+6dfb22cd-4c82-45ac-8121-78c35a82269a;SupporterGetDlc;Get DLC;
+
+6e430f96-deb3-4019-b44c-ad7c3001fe74;ShowPlayerNamesTooltip;When enabled, shows the names of other players in a multiplayer session underneath their cat.;
+
+6e6d924d-f2f3-4d07-98c0-d150facf90ef;OpenPollTooltip;Opens the currently active poll.;
+
+6e73d7ed-e69e-4f7d-a594-bb54c8d22f9f;DiscordSoloDetails;I'm working, trust me...;
+
+6e96bb42-ea89-45f7-bf85-4deb9df1b1c8;PawPassGetPassWarning;Please confirm that you want to redeem this pass. 
+This <b>cannot</b> be undone.;
+
+6f750475-70f7-4c3f-8b36-50fb141e340c;CatRandomizerTooltip;Picks a random hat and skin for the cat after the set amount of time has passed.;
+
+6f960ffa-ae2b-4187-835d-0abcd5450946;CatRandomizerSkin;Randomize Skin;
+
+708bb0ed-fe95-4059-8002-4588791ac55f;RandomizerIncludeSkins;Include Skins;
+
+70fbd3fe-a365-4540-93fe-4f9efe8e9a49;RotateCatTooltip;Rotates the cat;
+
+7112f03a-0fd2-46d1-b6d7-9a4fe147bbec;InventorySettingsTooltip;Inventory Settings;
+
+71cf1a0e-24f2-462b-b80a-cb4667dcc4ff;MultiplayerSpawningPatternRightBorder;Right Border;
+
+7251b4a1-c908-48cb-9218-ed7e9525fa27;FollowBongoCatSteam;Follow Bongo Cat on Steam!;
+
+72b7b9a0-9ab4-4478-8351-9309d027298f;Tut_GrantFailedTxt;Try checking your Steam Connection!;
+
+72e14564-ae51-4c82-ac07-bdb6c927093d;PositionRandomizer;Randomize Position:;
+
+7354835f-0a86-4ec0-b37c-e4f9808d9747;RewardDisclaimer;Choose one of these hat and skin combinations, then click confirm to receive the chosen items. You can only choose one.;
+
+74319ca3-ea55-40c9-90b7-f3a511fe1f53;PawPassNotificationTooltip;Highlights the Paw Pass tab when a new reward is ready to claim.;
+
+745061f8-7442-4e93-baf6-0237197cbae3;SnappingTooltip;Snaps Bongo Cat to the taskbar if near the taskbar and on the main screen.;
+
+768f70b1-df9d-4e64-bda0-53d1ee07098e;SettingsOther;Other;
+
+76b1fc9c-b32b-4f0d-817a-df838f3ec3c2;QuitButton;Quit;
+
+76c9c7d5-29e8-427c-bd01-4017715026bc;MultiplayerSpawnSettings;Spawn Settings;
+
+791a7ea3-a787-4495-a808-bc1dd7edc5cd;SubTabPositionForceLeft;Sub tab position: Force Left;
+
+79acdac1-6f09-4466-b096-17bb63e66935;CreateLobby;Create Lobby;
+
+7a134bf0-075c-43ff-be67-902d086c2efc;ShowQualityFilter;Show Quality Filter;
+
+7b995284-eda2-48a3-a7fe-d89b6fc82b80;Exchange;Exchange;
+
+7bffbedc-22c0-4179-b913-8079e151ecaf;Meow;Meow Meow;
+
+7c139508-f36c-47af-804d-a7352ef39fa4;HalloweenEdition;Halloween Edition;
+
+7cc97faf-2bb5-4086-8947-b7b0f8472556;ControllerSupport;Controller Support;
+
+7dfc424f-21a4-42f0-8435-d1a331a5d179;IgnoreClicksTooltip;Bongo Cat no longer taps on mouse clicks.;
+
+7e940a48-5c71-4fca-9fb4-8d2e38ae5fa8;MultiplayerSpawningAxis;Defines the axis to align along;
+
+7ee48866-3a80-4b63-8a6a-af5dc731ad36;DeleteSelectedItemsWarning;You are about to delete {0} selected items. This can not be undone. If you want to proceed tick the checkbox and click confirm.;
+
+7f8bcce7-98dc-45cc-a3d3-1ce24c2c5c3e;SubTabPositionLeft;Sub tab position: Left;
+
+80246961-85b7-402d-a853-cc83391e7672;DeleteWarning;The selected items will be fully deleted from your inventory. They can not be restored. ;
+
+80f080ae-f832-4584-9b12-068e3c92cbab;ShowEmoteWheelTooltip;Enables Emote Wheel on Hover;
+
+816a745f-33bf-484d-88cc-33c230ec980b;Tut_TransparencyTxt;Now, for a last check. Is your background transparent?;
+
+8181b1a5-58fa-4275-a568-5000daab7e0c;MultiplayerSpawningAnchorCenter;Center;
+
+81e6c2c6-65ca-4471-b58c-80f3d81c0614;MultiplayerSpawningPatternRandom;Random;
+
+822cf72f-447a-48ec-a58c-0c3e550fcdd6;SwapPlaces;Swap Cats On Drop;
+
+846bf444-f6f1-4cfb-9dec-cc05204543a7;SettingsCatRandomizer;Cat Randomizer;
+
+8475439e-777b-42f8-98f8-a84ac77f73f6;BattleWaitingForPlayers;Waiting for players...;
+
+85420116-3034-4cf8-b7a1-70aaafa47dae;ShowAfkIndicator;Show Afk Indicator;
+
+854ba21a-5ef9-4f66-ab0e-ac6092a2b396;DynamicPresetsTooltip;When enabled, new preset slots are automatically added once all preset slots have been filled. ;
+
+856afe67-3f3b-4f8e-b5ad-c041c20d9625;Apply;Apply;
+
+86316511-686e-4b00-8cc2-e92a4f0758f7;NameplatePositionBelowCat;Nameplate Below Cat;
+
+864425c8-80bc-4896-9020-978a253b417e;BongoDexTooltip;BongoDex;
+
+8792de53-69df-4ce8-b039-ea3fd8320211;AutoEquipPresetsTooltip;When enabled, Bongo Cat automatically equips the preset that was saved for an application when you switch to that application. 
+When a preset is created, the application that was last active before Bongo Cat is saved with that preset. Might not work for some applications.;
+
+88e7439c-5fb2-4de0-b364-5a4c4c61f8bb;AlwaysShowChest;Always Show Chest;
+
+8970bddf-2e8f-4443-ab1f-a7c6bb2fdf17;AfkIndicator;Show Afk Indicator;
+
+89b16e9e-c08b-4140-b2a0-b83b808d551f;SupporterItemBuyPopupQuestion;How do you want to buy the item?;
+
+8a971138-c29a-418b-bd4a-82994481a3f8;RandomizerIncludeSkinsTooltip;Includes skins in the randomization. Does not work if "Only Presets" is enabled.;
+
+8b39cb8e-b072-4805-9f1e-fc34c6f406d0;PollTitle;Time for a vote!;
+
+8b6b6a17-67a1-420c-bc59-badf632abb2a;NewItem;NEW ITEM;
+
+8c120aad-e37c-4776-bf5a-dd8965b8c805;EnableEmoteChestTooltip;Enables the emoji chest.;
+
+8cc44a1e-f4af-491d-9881-0aace726bc9d;Friends;Friends;
+
+8ce994d6-6eb4-4db6-9834-1b5c41957e5f;EnableEmoteWheel;Emoji Wheel;
+
+8d6e87b6-3001-4f68-afd4-56d76cb77fcf;SupporterDlcs;DLCs;
+
+8e7e2e6b-4ce8-421e-8367-ca72ffe1eb18;AlwaysTop;Always on Top;
+
+8f4268b1-72fd-40ae-9f07-c1f37b21c728;UIThemes;UI Themes;
+
+916def5f-06d6-489d-a2f2-a56d20691043;Skins;Skins;
+
+91b87f50-19c1-4305-a6ff-3ca09eec4d82;SettingsPerformance;Performance;
+
+92fb495c-7a03-4d63-ab79-f0a779ca687a;TransparencyFix2Tooltip;Can fix an issue where the window background is not transparent. 
+Disables controller support.;
+
+9319c6ad-e553-4775-a9bf-14f8e001906d;AlwaysShowWarning;Always show this warning;
+
+93d3288f-bfd6-4d6a-93ef-d3c93e3091a0;EmoteSpeed;Emote Speed;
+
+941e1ea0-c2c1-40c8-a5b1-fc0c78fef0ce;UiThemeRewardPopupText;Are you sure you want to select this theme? The other themes <b>will be dropped in chests</b> soon.;
+
+943b9a2c-9af4-4a51-b858-34dfb9a2aab3;ReceiveDuplicatesNotif;Notify when owning enough duplicates;
+
+9546537a-8e7c-440b-8919-38d620c14e12;KeyhookAccessibilityPath;System Settings -> Privacy & Security -> Accessibility;
+
+95fb9674-7d00-4a30-b57b-7dace76e9706;Unlock;Unlock;
+
+9635eacc-f82d-40c2-acd6-5abe70c328d8;AutoEquipPresets;Auto Equip Presets;
+
+96421ae1-de7c-409d-a177-734ef2389b82;Lobbies;Lobbies;
+
+966e49de-760d-4d7c-99ef-2998e52dfd0d;SettingsMultiplayer;Multiplayer Settings;
+
+96904617-f354-4101-93aa-a6fa054a4d8b;SupporterExplainer;The items support the ongoing development of the game. Thank you so much! <3
+<color="white"><i>Marcel</i></color>;
+
+96ee1a8e-59aa-46ec-a2d9-0998621597bd;KeyhookPrivacyNote;Bongo Cat only monitors for input events. It does not record, store or transmit any text you type.;
+
+9740d5ab-9614-4a32-9ed9-e037720f2cae;VSync;VSync;
+
+97832412-4adb-4141-93b4-37db3fe964db;PrivateLobbyOption;Private Lobby;
+
+9870d532-aa1e-465b-941c-f907198931e2;AllPasses;All Passes;
+
+98da57f9-81e2-43a2-9c67-b9b42d5e6cde;OldLobby;Old Lobby;
+
+997c0052-c648-4c32-a909-77cd082ea4c2;MultiplayerSpawningAxisVertical;Vertical;
+
+999bceca-d3bf-4a35-85b0-02f3cd5a3333;SyncBobbing;Sync Bobbing;
+
+9a3f3911-0a46-48b3-97ef-cdef675104a5;MultiplayerSpawningPatternTopBorder;Top Border;
+
+9b2e490e-8fcf-4ef5-9cce-f791a046b7bf;FpsLabel;FPS: {0};
+
+9bc98c29-d384-4fef-a5b9-e6eb5619ba50;PawPassWelcomeTitle;Welcome to the Paw Pass!;
+
+9c3ff165-7ae7-4dcc-8c2f-5c3700065d97;RandomizeVertically;Only Move Vertically;
+
+9e23f59f-5b16-4561-9912-4d616002e54f;TranslucentOnHover;Translucent On Hover;
+
+9e4ea673-f41d-45ca-aeb2-8c657a846090;ResetScale;Reset Scale;
+
+9f454ece-baa1-4f52-a3f0-26936e4bb407;ControllerSupportTooltip;Enables controller support. Can cause an issue where the window background is no longer transparent on some computers.;
+
+9fc3939e-6820-4f56-b24f-f20af98767fe;OptionConfirmItemHideTooltip;Enables a popup warning when trying to hide an item from the inventory;
+
+9fd77aa7-ffdd-4220-8f46-e26dd0eec769;Minutes;min;
+
+a1d9fd00-0ab6-4b5d-ba84-42966b23d4d9;SettingsSystem;System;
+
+a1ec679e-c252-477a-a6e3-d79398a60c5e;MultiplayerSpawningAnchorTopLeft;Top Left;
+
+a3d7a137-5f1c-4bc1-892c-cfa4b000790e;Tut_AutoStart;Would you like to enable AutoStart?;
+
+a408a4da-2d16-4073-b22a-3c7f4ff38c72;HideItem;Hide Item;
+
+a43539d0-381d-4061-8f3d-65d48065d5eb;AdminModeTooltipDisabled;The local user must be an administrator to use this function.;
+
+a48adcc2-ab80-4cd3-bec4-c900b780e604;Recalculate;Recalculate cat positions;
+
+a4aa3d97-5857-4176-88eb-7cf81deba5b8;MultiplayerSpawnPreferredHorizontalDistance;Preferred Horizontal Distance;
+
+a58a5b2f-a311-4eeb-8cea-944fb5f3ac69;ChestPopupTooltip;Shows the chest popup when a new chest can be opened.;
+
+a5e9a45f-3b89-4391-aab2-20c74ec4e01c;DiscordCoopDetails;Tap tap tap...;
+
+a6381a87-aeca-4dd9-9fa3-1147a024c85c;Claimed;Claimed;
+
+a7d686ce-15f4-4739-a64f-838e7f1349a5;Screenshot;Screenshot (F12);
+
+a8b9ed72-12f5-4f6e-81a9-8fe5b0b90c4f;MultiplayerSpawningPreferredDistance;Preferred Distance;
+
+a9241c4e-aacc-4c1d-abd9-f1b359553448;SearchPlaceHolder;Search...;
+
+aa650d4b-0f49-44eb-b78e-6dfa35ecfb9f;Quit;Quit;
+
+aa9065b1-bd68-4be6-89b6-61c5fbc8e99b;BattleLeastTapsInfo;The players with the least taps will be eliminated!;
+
+aa925a95-2a38-4c18-aa97-2d9dd37929ab;MultiplayerSpawnPreferredVerticalDistanceTooltip;Defines the vertical distance between cats;
+
+ab077129-0a85-4e95-9ea4-9a2b1757265c;Scale;Scale;
+
+aba212dc-034d-4fce-94ce-19351284b2ca;CounterPositionBelowBongos;Counter Below Bongos;
+
+ad0eaee5-9702-4405-84a2-db1c755745a5;ChestPositionTooltip;The location where your chest is placed at.;
+
+aea0ce5b-7250-435b-b6c8-df83c7f173c9;DeleteAllStats;Delete all stats;
+
+aec6a3cf-7056-461e-ba1a-c792f9b63d6f;ShowItemBordersTooltip;Shows the quality colored border around items;
+
+af2e358d-7589-4a54-9602-3c4510d7f9a6;AnimationsTooltip;Turn off to skip UI animations and save performance;
+
+af66d37b-feac-471c-af35-d03d5c9d7926;FlipCat;Flip Cat (F);
+
+afbdcb14-84b8-4058-89ac-b18dbd5fe9e5;Yes;Yes;
+
+b13413b5-6484-449c-b3e1-b5825aa6a8d2;RestartButton;Restart;
+
+b146107f-4a1b-4a6a-b7cd-4f58d0a4d552;Tut_OpenInventory;Great! Let's equip your new item;
+
+b17e4e41-c1a2-4337-933e-3051e43364f0;ResetCounterWarning;Are you sure you want to reset your counter to 0?;
+
+b19b54af-d189-40e9-b694-0f9c148f8cc1;CatBobbing;Bobbing;
+
+b22c217e-fd79-4cd2-8f1a-a25f8db16ab5;FlipCatTooltip;Flips the direction the cat is facing.;
+
+b49fc6f1-6328-4e3b-b7ca-51005ed2d31a;SupporterNew;New;
+
+b4bcc398-86d8-4d8f-9088-5a16946634bc;BongoCoinsTooltip;Bongo Coins can be used to buy the Paw Pass Token or Supporter items in the Supporter tab;
+
+b5117930-a84a-4e5b-a2cc-e468ec75b6e1;Away;Away;
+
+b5cee603-3aca-468f-92a8-a100f47b9d4c;SupporterItemsTooltip;Supporter Items;
+
+b5fa8cd6-5725-49d4-8e02-a7ccaf0e2eff;PawPass;Paw Pass;
+
+b7526d53-afc4-4058-9671-c2d6141d26ac;MultiplayerSpawningEnableAllPreviewSlotsTooltip;Enables all preview slots. Click on a preview cat to disable it.;
+
+b755f027-5020-46b3-ace8-d3d16b9c197c;Inventory Button;Inventory;
+
+b7a51f07-f343-40ee-9c58-fa3a6744af65;ShowIconPreview;Show Icon Preview;
+
+b864c8b3-1864-4e08-a842-f92bd673cb76;PawPassCircusEdition;Circus Edition;
+
+b8b4a94b-0fae-49bc-b144-85da41d171c0;UnlockAfterTutorial;Unlock this tab after the Tutorial;
+
+b9360179-ff1c-4322-8908-1d62bb50b58c;TranslucentTimeoutTooltip;How long the cat remains see- and clickthrough after right-clicking;
+
+b9cff0ac-dff2-48fe-a584-33b7e30f1e82;SteamInventory;Steam Inventory;
+
+b9fc976e-9757-4700-aa39-d69af02131f7;Busy;Busy;
+
+ba10c091-9b58-4829-9f8a-219557a2a3cc;DiscordSoloState;Typing very hard!;
+
+badc06b1-caef-44de-9bfb-aaa8b20fa798;MultiplayerSpawningPatternGrid;Grid;
+
+bba63565-ba39-4a38-90d5-7a91a4682705;Leaderboard;Leaderboard;
+
+bbedfcb9-369f-4fb1-9c4a-8a19dc9421a3;MultiplayerSpawningPatternLeftBorder;Left Border;
+
+bc7d8a12-20fd-4acb-81b9-cddfc4c2b92e;DiscordIntegration;Discord Integration;
+
+bde84eba-0a52-4d6a-86b5-5ee2984ca6ad;To;to;
+
+c0719cad-0c29-4b80-9891-aa6e7c6f2d80;NameplatePositionAboveCat;Nameplate Above Cat;
+
+c213d3db-e0e3-4af9-b99f-f881f110f8c5;Autostart;Autostart;
+
+c35b371a-ebd6-438f-9eb3-4419c03375c5;IgnoreClicks;Ignore Clicks;
+
+c3ac330a-6fd8-455a-845f-e49352c9738c;SupporterItemStoreTooltip;Get in Steam item store;
+
+c42ecd68-9da3-4916-a04e-9e61815a49c8;SnapCats;Snap Cats;
+
+c4374c3a-231f-41cf-a337-d67c5f82d4d6;BulletinBoard;Bulletin Board;
+
+c50ebcce-9106-4f7d-9010-b95076889963;IndieSpotlight;Indie Spotlight;
+
+c555f6a3-75d4-4097-b867-9af631e2ef14;Count;Count;
+
+c57a4957-ebab-4780-b7fb-e7ad0d81b65a;WishlistFollowGeneric;To collect your {0} item, you have to wishlist and follow {1} on Steam. Visit the store page and press the wishlist and follow buttons.;
+
+c615759c-e2aa-4bcd-9454-fd642ecb155f;UnlockTab_Taps;Achieve {0} more taps;
+
+c65cd762-da93-4c1a-9ee2-baae08b07cc5;CatRandomizerHat;Randomize Hat;
+
+c7249aaa-c93f-4f2c-8504-751626e12ce1;SupporterExchangeCoinsTooltip;Exchanges coins for the item;
+
+c8bc8138-0022-4ee5-83e3-e2dc247045aa;EnableGamingModeQuestion;Enable Gaming Mode?;
+
+c9f76cac-b0bb-4782-8217-0f8ac95aa473;ServerError;Connection to Steam server lost.
+Please restart Steam and Bongo Cat.;
+
+ca001626-4296-4833-9a39-73606391fae5;ScaleAllCatsTooltip;When enabled, changing the scale affects all cats at once.;
+
+ca3395ac-f78e-46dd-82a5-3b2246882364;AutoHideCounterTooltip;Automatically hide the counter when not hovering over the cat.;
+
+cb56a6f9-7464-4122-b3ae-b6490dd38ab9;MultiplayerSpawningIncludeMainCatTooltip;Includes your own cat in the layout;
+
+cdaf3b29-e89a-481b-9a35-4763ec6661e4;SortBy;Sort By;
+
+cf99babb-3181-49da-9cd8-71c510f8f218;RandomizeAllDirections;Move In All Directions;
+
+d0c31ed7-962a-4c4a-bb4a-d785e8ab000b;AllowReceivePats;Receive Pats;
+
+d0f6eb5a-8fb9-4fdf-8732-6d454ecba9ad;RewardPopupText;Are you sure you want to select this item? The other items do not drop from chests.;
+
+d165b157-8cc1-478c-9d3c-d35fc6720d4e;JoinLastLobbyTooltip;When enabled, tries to re-join the last lobby you were in when the game closed. Won't attempt to reconnect to a previous lobby if you left via the 'Leave Lobby' button.;
+
+d48b3d4a-5a31-4296-ae0d-4fbc1079228e;Snapping;Snapping;
+
+d52d41bd-2741-4af4-8dcd-e3686f1749f3;MultiplayerSpawningPattern;Spawning Pattern;
+
+d5aa8449-1d53-4a35-8035-e508cbfaee31;MultiplayerSpawningPreferredDistanceTooltip;Defines the distance between cats;
+
+d65f8769-45bb-47a4-9824-c7e7683d0da9;CounterPositionHighAboveCat;Counter High Above Cat;
+
+d8045fc2-7201-475a-95ba-490180834f04;RandomizeFavoritesTooltip;The randomizer will only use your favorite hats and skins.;
+
+d811becb-aa69-4da8-b19f-27828ded5522;UnlockAfterOwningCosmetics;Collect at least {0} more cosmetic items to unlock this tab;
+
+d8dc89a3-05eb-4cf5-92d1-af1834ecd289;MultiplayerSpawningAnchorBottomRight;Bottom Right;
+
+d99db0d1-44a8-4190-a0b2-00f4c0f16bc0;ResetPos;Reset Position;
+
+d9ce29dd-20cf-4687-880d-c6a7b175907e;AllowAutoSlotFavoritesTooltip;Allows automatically slotting duplicates marked as 'Favorite' in the exchange.;
+
+dac64ae3-1422-45e3-a25c-5dacf997cbfc;BattlePlayersRemaining;{0} players remaining;
+
+dadbc7d0-b568-42b7-bc01-4af01250cd47;PlayTutorial;Play Tutorial;
+
+db0bdefb-fe42-44c0-98a5-73bf2fe542b2;RandomizerIncludeHats;Include Hats;
+
+db5deaed-af5c-4a5a-971e-af0416e06e24;RotateCat;Rotate Cat (R);
+
+dd48ae37-e18f-4e02-a2c4-dd6e7179a776;MultiplayerPopupsTooltip;When enabled, show chest and item popups for other cats in your lobby.;
+
+dd6a49bf-37e4-434d-abfd-e2eaaa1e452b;PrivateLobby;Private (invite-only);
+
+ddab4779-54de-427a-9ca4-5aa3f326a2a3;DeleteFullInventory;Delete Full Inventory;
+
+ded995f5-661b-4e87-93fe-28527f11eb8e;UpdateAndRestartButton;Update and Restart;
+
+e15a8a10-f738-4581-ac2d-7d652df660b4;SettingsInfoText;Shortcuts (needs focus): 
+F1 Reset Position
+F2 Hide Counter
+F4 Disable Gaming Mode
+F6 Show Preview Cats
+F8 Switch Screens
+R   Rotate
+F   Flip;
+
+e1d5155a-922a-41dc-84a5-26cdc80b5aa0;Owned;Owned;
+
+e23c6217-edd1-4cfe-9e8a-c7fd4c0b449e;PositionRandomizerDistance;Distance from;
+
+e2cb08ad-c3f9-420d-b7f0-6a3451348f81;TransparencyFix2;Transparency Fix 2;
+
+e2e45d57-4f96-47bf-b466-74d2bb1c0396;ShowQualityFilterTooltip;Shows the quality filter in the inventory.;
+
+e42c85a5-e87c-4f39-bc52-557a8274255c;SubTabPositionForceRight;Sub tab position: Force Right;
+
+e43c5a94-2e51-4633-b7b6-cc8f568959d8;DisableDrag;Disable Drag;
+
+e4731480-52db-47c1-ae5c-53bf6c2c9887;DLCDisclaimerTooltip;Buying every item of the DLC does not automatically grant you the DLC. DLCs cannot be bought with Bongo Coins;
+
+e4b3fed7-a072-4f95-a828-44532c083b08;ResetCounter;Reset Counter;
+
+e4f18b70-1eb3-49a0-b3da-e5d96c4d2388;AllowAutoSlotEventItemsTooltip;Allow Auto Slot Event Items;
+
+e56f05bd-aa1e-4981-8010-120205bb5cf7;GenericSteamError;Steam Error;
+
+e6402440-56eb-440c-a110-113328767ad8;LobbyVisibilityPublic;Public;
+
+e69d5cf9-dbb4-4d80-9a76-6b4e1d304439;Never;Never;
+
+e86a00d8-0479-47ea-9657-7d4df793ed2f;Random;Random;
+
+e9b804b6-e09b-4631-b302-9f10b8e0dea6;DeleteAllStatsWarning;Are you sure you want to delete all your stats? This cannot be undone.;
+
+ec592fbf-4e4a-4e34-9a3c-e20905bf1aa3;Tut_DragTitle;Dragging;
+
+ed49bc50-658e-4e7b-99d6-b2faddbf0e49;LanguageFilter;Language Filter;
+
+edd03444-6ee9-4fff-aa19-c9f0a9bf10bd;UiThemeRewardDisclaimer;Choose one of these UI themes, then click to confirm the chosen theme.;
+
+ee130b7e-9607-4fa2-8b38-65e992d7f8cc;MultiplayerSpawnPreferredVerticalDistance;Preferred Vertical Distance;
+
+ee5fe0df-599a-4216-a6b2-7dd77b09609f;Create;Create;
+
+ef0d113a-6a3a-49e1-abbd-faf3b945ed66;CategoryNoExchangeableItems;This category does not have exchangeable items;
+
+efe1f0a3-0602-4f73-bbca-8ac675cd7167;MultiplayerSpawningPatternAlignedWithMainCat;Align with my cat;
+
+efea3618-de15-4435-b336-9a0a315ad4f1;ChestPopup;Chest Popup;
+
+f090bdec-499e-4f67-ab34-eb7ff2f77c18;BattleRound;Round {0};
+
+f1d4bfe6-6773-4e86-9a48-18e9583c2f8f;Presets;Presets;
+
+f24e6d8f-53d2-4339-845e-a6e94cfc05e5;LobbyVisibilityLobbyCode;Lobby code or invite;
+
+f3361098-1c85-47b2-a4be-0aa4d00ec29a;TaskbarIconTooltip;Shows an icon for Bongo Cat in the taskbar.;
+
+f35d756d-fa66-473e-84a2-93116cfc6fdd;BattleStart;Battle will start soon;
+
+f3f65c75-3f52-421a-9ef6-c1cc2bfa6205;EmoteSpeedTooltip;The speed of your and other players' emotes;
+
+f4118cc4-9fdf-4660-ae8c-07f805d763f6;AutoSlotDuplicatesTooltip;Auto-Slot Duplicates;
+
+f4a2b388-53f8-4688-8df2-652836616d33;Multiplayer;Multiplayer;
+
+f52689b8-f2f3-46ce-be8e-4d2905ae1029;LifetimeTaps;Lifetime taps:;
+
+f7147a73-63ec-4e67-a54a-098f6d0daeed;PatCats;Pat Cat;
+
+f749a05f-87c8-4e56-b44a-3bb8d5ab92fe;BattleWinSub;You have won;
+
+f753efa3-ddaa-40a5-b173-65b0d6c9153b;PositionRandomizerTooltip;Offsets the cat's position by a little after the set amount of time has passed.;
+
+f778c2a8-a508-4b48-9043-151970499ea6;ShowGridSlider;Show Gridscale Slider;
+
+f8d7ff08-c864-429d-b40a-0d043a7ab59e;Add to Presets;Add to presets;
+
+f9230626-2882-4df9-ae36-67fc83da6962;Event;Event;
+
+f9dffb8e-a3fa-4767-b53c-aab9ebeab5ae;CatBobbingTooltip;Enables the up and down animation on the cat. When disabled, on demand rendering is used, which can drastically improve GPU performance.;
+
+fa1175fa-65ab-45ef-a790-b8219412790c;Animations;Animations;
+
+fa68f73a-85de-4c2a-97af-6cfb296377b6;Join;Join;
+
+fb0ba100-f081-4278-b077-aed69796a326;Language;Language;
+
+fbf3e198-8cff-4e82-81f6-6bd424144a69;MultiplayerSpawningDisableAllPreviewSlotsTooltip;Disables all preview slots. Click on a preview cat to reenable it.;
+
+fe3c559d-7319-4b7e-bdff-379e5cc29e06;ChestPosition;Chest Position:;
+
+fea42723-3fa6-4528-9960-c1f3fb8cdfa3;CatRandomizerCosmetics;Randomize Cosmetics;
+
+fed8179f-b251-402f-8c95-e7d24d57b530;RandomizeHorizontally;Only Move Horizontally;
+
+ffc42704-bcc3-4381-9d55-3bc8647efd72;ShowGridSliderTooltip;Toggles visibility of the grid scale slider;
